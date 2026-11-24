@@ -2,7 +2,7 @@
 
 An interactive, open-source web application designed to help UK Anaesthetics trainees and their partners visualise, compare, and rank **CT1** (Core / ACCS) and **ST4** (Higher Specialty) training rotations from Oriel.
 
-**Live Tool:** [https://samrowles.github.io/Anaesthetics-ST4-Rotation-Map/](https://samrowles.github.io/Anaesthetics-ST4-Rotation-Map/)
+**Live Tool:** [https://samrowles.github.io/Anaesthetics-Rotations-Map/](https://samrowles.github.io/Anaesthetics-Rotations-Map/)
 
 ---
 **Loom video explanation of features and usage:** [https://www.loom.com/share/a9ee124e77dc449c9553b11f9cb6452d](https://www.loom.com/share/a9ee124e77dc449c9553b11f9cb6452d)
